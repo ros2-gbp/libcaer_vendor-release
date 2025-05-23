@@ -1,3 +1,26 @@
+## libcaer_vendor (rolling) - 2.0.0-1
+
+The packages in the `libcaer_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --edit-track libcaer_vendor` on `Fri, 23 May 2025 00:35:21 -0000`
+
+The `libcaer_vendor` package was released.
+
+Version of package(s) in repository `libcaer_vendor`:
+
+- upstream repository: https://github.com/ros-event-camera/libcaer_vendor.git
+- release repository: https://github.com/ros2-gbp/libcaer_vendor-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## libcaer_vendor (kilted) - 2.0.0-1
 
 The packages in the `libcaer_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --new-track libcaer_vendor` on `Fri, 23 May 2025 00:32:49 -0000`
