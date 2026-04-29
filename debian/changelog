@@ -1,0 +1,14 @@
+ros-lyrical-libcaer-vendor (2.0.0-3trixie) trixie; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 22 May 2025 00:00:00 -0000
+
+ros-lyrical-libcaer-vendor (1.0.0-3trixie) trixie; urgency=high
+
+  * initial commit
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sat, 18 May 2024 00:00:00 -0000
+
+
